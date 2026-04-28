@@ -1,2 +1,1 @@
-# AWS_Devops_Cloud_AI_Full_stack_Project
-This repo contains portfolios of projects which are AI powered cloud aws devops and automation and complete package
+This Repo contains Complete package of Server Infrastructure (Terraform), AWS Services (Cloudformation), Backend and Frontend Applications as well as setup files with CI/CD Pipeline auto deployment.
